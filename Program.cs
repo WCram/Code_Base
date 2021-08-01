@@ -6,7 +6,7 @@ namespace Code_Base
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Test Me");
         }
     }
 }
